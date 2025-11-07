@@ -12,6 +12,9 @@ body{
 
 
 }
+.name{
+    color:brown;
+}
 nav{
     width:100%;
     padding:1rem 5%;
@@ -863,4 +866,5 @@ footerContainer{
         padding: 8px;
         margin: 4px;
     }
+
 }
